@@ -105,15 +105,9 @@ The game should stop if a Tetrimino fills the highest row of the game board
 * Use semantic markup for HTML and CSS (adhere to best practices)
 
 
-## Installation
-To install the Node.js modules http and fs, you can use the following steps:
 
-Make sure you have Node.js installed on your machine. You can download and install Node.js from the official website: https://nodejs.org
-
-Tetris is a tile-matching puzzle game from the 80’s. Try to get your personal high score by moving each of the 5 randomly selected Tetromino shapes sideways and/or rotating by quarter-turns, so that they form a solid horizontal line without gaps. When such a line is formed, it disappears and any blocks above it fall down to fill the space. For each line you will receive 10 points.
 ### The Core Team
 Faith Okosun
+Adedapo Abiodun
 
 
-<span><i>Made at <a href='https://qwasar.io'>Qwasar SV -- Software Engineering School</a></i></span>
-<span><img alt='Qwasar SV -- Software Engineering School's Logo' src='https://storage.googleapis.com/qwasar-public/qwasar-logo_50x50.png' width='20px'></span>
