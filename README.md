@@ -1,7 +1,5 @@
 # Tetris
-A vanilla javascript game
 
-Watch my tutorial [here](https://www.youtube.com/watch?v=GWPGz9hrVMk)
 
 I have kept the styling at a bare miniumum for you to go wild and make it your own. Please tag me as I would LOVE to see your game!!!
 
@@ -9,7 +7,7 @@ Tetris is a tile-matching puzzle game from the 80’s. Try to get your personal 
  
 This was my first project from General Assembly's Software Engineering Immersive Course. It was also my first time building a project with JavaScript.
 
-![Tetris](https://github.com/kubowania/Tetris/blob/master/images/Tetris%20Game.gif)
+
 
 
 
